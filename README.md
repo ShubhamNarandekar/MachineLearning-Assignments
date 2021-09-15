@@ -1,4 +1,5 @@
 Question 1
+
   The objective of this question is to use the ensemble learning functionality to identify 
   the extent to which classification performance can be improved through the 
   combination of multiple models. Experiments will be run on a dataset extracted from 
@@ -14,7 +15,7 @@ Question 1
   realistic dataset -- There may be missing values and many other issues that you have 
   to deal with. 
 
-Total suggested page length for Q1 is 5 pages. 
+
   (a) Evaluate the performance of three basic classifiers on your dataset: 
   Decision Tree, Neural Network and 1-NN. Carefully consider the evaluation 
   measure(s) that you use for this exercise and justify why you selected the 
@@ -39,8 +40,7 @@ Total suggested page length for Q1 is 5 pages.
   
   
 Question 2 
-  Answers all parts below. Please provide answers in your own words. 
-  Each parts carries equal marks. Total page length for Q2 should not exceed 2 pages 
+
   (a) Comment on the interpretability of different supervised learning techniques. How 
   easy or difficult it is to explain the reason behind predictions to a layman? Can 
   you easily find out which training examples need to be modified to change the 
